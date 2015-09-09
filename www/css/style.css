@@ -1,0 +1,12 @@
+#text {
+	font-size: 40px;
+	line-height: 50px;
+	padding: 40px 0;
+	text-align: center;
+	word-break: break-all;
+}
+
+.individual li {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
